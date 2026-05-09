@@ -1,7 +1,7 @@
 [project]
 name = "pandas-tut"
 version = "0.1.0"
-description = "Add your description here"
+description = "Comprehensive Pandas tutorial covering DataFrames, Series, CRUD operations, data cleaning, and advanced filtering with practical examples."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
